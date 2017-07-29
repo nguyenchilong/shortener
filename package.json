@@ -1,0 +1,28 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "description": "make any string to shorter for SEO or other devices limit length characters, good at for shorter url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenchilong/shortener.git"
+  },
+  "keywords": [
+    "shorter",
+    "shortener",
+    "bit.ly",
+    "tinyurl",
+    "goo.gl",
+    "short url",
+    "hash string"
+  ],
+  "author": "Long Nguyen <nguyenchilong90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenchilong/shortener/issues"
+  },
+  "homepage": "https://github.com/nguyenchilong/shortener#readme"
+}
