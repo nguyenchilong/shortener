@@ -1,5 +1,5 @@
 {
-  "name": "shortener",
+  "name": "shorteners",
   "version": "1.0.0",
   "description": "make any string to shorter for SEO or other devices limit length characters, good at for shorter url",
   "main": "index.js",

@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./shortener');
+module.exports = require('./shorteners');
