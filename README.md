@@ -3,6 +3,14 @@ A mini Node.js module for make string shorter, url-friendly, can't decrypt.
 Use this module when you want to encrypt any string shorter for devices limit characters, unique and url friendly.
 Easy for use without any setup, without put any options, only require then call now
 
+## Install 
+
+Run with npm installed
+
+```bash
+npm install shorteners
+```
+
 ## Usage
 
 ```js
