@@ -13,6 +13,7 @@ npm install shorteners
 
 ## Usage
 
+**NodeJS** Version
 ```js
 'use strict';
 
@@ -25,4 +26,13 @@ let url_shorter = shortener.shortener(my_url);
 
 console.log(url_shorter);
 // 1XpN4z
+```
+
+**Python** Version
+```python
+
+from .python.v1.shortener import v1 # or v2
+
+priif __name__ == "__main__":
+	print(shortener("http://www.lazada.co.th/maybelline-1-maybellinefashion-brow-ultra-fluffy-brown1-7906309.html"))
 ```
